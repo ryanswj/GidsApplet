@@ -41,7 +41,7 @@ public class GidsPINManager {
 
     /* PIN, PUK and key realted constants */
     // PIN:
-    private static final byte PIN_MAX_TRIES = 3;
+    private static final byte PIN_MAX_TRIES = 7;
     private static final byte PIN_MIN_LENGTH = 4;
     private static final byte PIN_MAX_LENGTH = 16;
     // state for admin authentication
